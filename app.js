@@ -6,3 +6,7 @@ function negro(){
     body.style.background="black"
 }
 boton.addEventListener("click", negro)
+
+function activador(){
+    body.style.background="red"
+}
